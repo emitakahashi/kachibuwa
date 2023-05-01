@@ -147,7 +147,7 @@ padding-left: 0.8vw;
     margin-bottom: 1vw;
   text-align: left;
   background-color: white;
-          overflow:scroll;
+          overflow:hidden;
 }
 
 
